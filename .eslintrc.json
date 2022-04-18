@@ -1,0 +1,8 @@
+{
+  "globals": {
+    "db": "writable"
+  },
+  "rules": {
+    "sonarjs/no-duplicate-string": ["error", 5]
+  }
+}
